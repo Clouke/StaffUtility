@@ -1,0 +1,3 @@
+name: StaffUtility
+version: '${project.version}'
+main: gg.clouke.staffutility.StaffUtility

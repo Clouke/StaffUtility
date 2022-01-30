@@ -1,0 +1,19 @@
+mongodb:
+  address: '127.0.0.1'
+  port: 27017
+  database: 's'
+  authentication:
+    enabled: true
+    username: 'dumbahh forgot his password'
+    password: 'carti'
+    database: 'donda'
+
+redis:
+  host: ''
+  port: 6379
+  authentication:
+    enabled: true
+    password: ''
+
+settings:
+  server: "eu-hub"
